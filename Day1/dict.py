@@ -11,3 +11,7 @@ Menu = {1:'Tea',2:'Coffe',3:'Biryani'}
 print(Menu)
 Menu[1] = 'Burger'
 print(Menu)
+# bhgf
+
+#Note
+#dict is mutables
